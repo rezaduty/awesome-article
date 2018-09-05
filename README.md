@@ -13,12 +13,14 @@
   * [Do It Yourself](#Do-It-Yourself)
   
 
-## Startup Ranking
+## Startup
   * [startupranking.com](https://www.startupranking.com/)
   * [disrupt100.com](http://www.disrupt100.com/)
+  * [angel.co](https://angel.co/)
 
-## Best Products
+## The Best
  * [slant.co](https://www.slant.co/)
+ * [ifttt.com](https://ifttt.com/)
 
 
 ## Code Snippet
