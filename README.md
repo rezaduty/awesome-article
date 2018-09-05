@@ -2,8 +2,8 @@
 
 
 * [Ranking](#ranking)
-  * [Startup Ranking](#Startup-Ranking)
-  * [Best Products](#Best-Products)
+  * [Startup](#Startup-Ranking)
+  * [The Best](#Best-Products)
 
 * [Coding](#Coding)
   * [Code Snippet](#Code-Snippet)
