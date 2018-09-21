@@ -11,6 +11,9 @@
   
 * [Do](#Do)
   * [Do It Yourself](#Do-It-Yourself)
+ 
+* [Blog](#Blog)
+ 
   
 
 ## Startup
@@ -31,4 +34,7 @@
   * [ehow.com](http://www.ehow.com)
   * [hackaday.com](http://hackaday.com)
   * [makezine.com](http://www.makezine.com)
+
+## Blog
+  * [manu.ninja](https://manu.ninja/)
   
