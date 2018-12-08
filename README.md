@@ -13,7 +13,9 @@
   * [Do It Yourself](#Do-It-Yourself)
  
 * [Blog](#Blog)
- 
+
+* [Technique](#Technique)
+
   
 
 ## Startup
@@ -38,3 +40,7 @@
 ## Blog
   * [manu.ninja](https://manu.ninja/)
   
+## Technique
+  * [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+  * [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
+
