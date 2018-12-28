@@ -16,6 +16,8 @@
 
 * [Technique](#Technique)
 
+* [Book](#Book)
+
   
 
 ## Startup
@@ -43,4 +45,7 @@
 ## Technique
   * [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
+  
+## Book
+  * [The Mom Test](http://momtestbook.com/)
 
